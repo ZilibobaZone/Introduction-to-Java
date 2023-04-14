@@ -1,7 +1,7 @@
 package by.epam.introductionToJava.basicsOfSoftwareCodeDevelopment;
 
 
-//Решаем Basics of software code development - Ветвление - задача #6
+//Решаем Basics of software code development - Ветвление - задача #1
 public class SolutionTask010201 {
 	public static void main(String[] args) {
 		//Даны два произвольных угла
