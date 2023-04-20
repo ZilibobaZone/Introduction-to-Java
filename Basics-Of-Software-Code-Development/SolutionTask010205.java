@@ -1,23 +1,22 @@
-package by.epam.introductionToJava.basicsOfSoftwareCodeDevelopment;
-
+package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
 //Решаем Basics of software code development - Ветвление - задача #5
 public class SolutionTask010205 {
 
 	public static void main(String[] args) {
-			
+
 		int x = 3;
 		double result;
-		
-		//Проведём рассчёт согласно условию
+
+		// Проведём рассчёт согласно условию
 		if (x <= 3) {
-			result = Math.pow(x,2) - 3 * x + 9;
+			result = Math.pow(x, 2) - 3 * x + 9;
 		} else {
-			result = 1 / (Math.pow(x,3) + 6);
+			result = 1 / (Math.pow(x, 3) + 6);
 		}
-		
-		//Выводим ответ в консоль
-		System.out.println("Ответ " +result);
+
+		// Выводим ответ в консоль
+		System.out.println("Ответ " + result);
 
 	}
 
