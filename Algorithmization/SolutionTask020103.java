@@ -1,7 +1,7 @@
 package by.epam.introduction_to_java.algorithmization;
 
-//Решаем Basics of software code development - Одномерные массивы - задача #3
-public class SolutionTask010103 {
+//Решаем Algorithmization - Одномерные массивы - задача #3
+public class SolutionTask020103 {
 
 	public static void main(String[] args) {
 

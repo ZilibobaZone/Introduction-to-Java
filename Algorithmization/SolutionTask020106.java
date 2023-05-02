@@ -1,7 +1,7 @@
 package by.epam.introduction_to_java.algorithmization;
 
-//Решаем Basics of software code development - Одномерные массивы - задача #6
-public class SolutionTask010106 {
+//Решаем Algorithmization - Одномерные массивы - задача #6
+public class SolutionTask020106 {
 
 	public static void main(String[] args) {
 		// Дана последовательность действительных чисел

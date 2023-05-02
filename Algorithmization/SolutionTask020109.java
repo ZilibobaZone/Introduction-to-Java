@@ -1,7 +1,7 @@
 package by.epam.introduction_to_java.algorithmization;
 
-//Решаем Basics of software code development - Одномерные массивы - задача #9
-public class SolutionTask010109 {
+//Решаем Algorithmization - Одномерные массивы - задача #9
+public class SolutionTask020109 {
 
 	public static void main(String[] args) {
 		// Дан массив целых чисел

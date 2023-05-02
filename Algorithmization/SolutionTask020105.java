@@ -1,7 +1,7 @@
 package by.epam.introduction_to_java.algorithmization;
 
-//Решаем Basics of software code development - Одномерные массивы - задача #5
-public class SolutionTask010105 {
+//Решаем Algorithmization - Одномерные массивы - задача #5
+public class SolutionTask020105 {
 
 	public static void main(String[] args) {
 		// Дана произвольные целые числа
