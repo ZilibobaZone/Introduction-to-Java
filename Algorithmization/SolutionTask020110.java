@@ -1,7 +1,7 @@
 package by.epam.introduction_to_java.algorithmization;
 
 //Решаем Algorithmization - Одномерные массивы - задача #10
-public class SolutionTask0201010 {
+public class SolutionTask020110 {
 
 	public static void main(String[] args) {
 		// дан целочисленный массив
