@@ -1,6 +1,9 @@
 package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
-//Решаем Basics of software code development - Ветвление - задача #1
+// Решаем Basics of software code development - Ветвление - задача #1
+// Даны два угла треугольника (в градусах). Определить, существует ли такой треугольник, и если да, то будет ли
+// он прямоугольным.
+
 public class SolutionTask010201 {
 	public static void main(String[] args) {
 		// Даны два произвольных угла

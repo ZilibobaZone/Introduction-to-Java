@@ -1,6 +1,8 @@
 package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
-//Решаем Basics of software code development - Ветвление - задача #3
+// Решаем Basics of software code development - Ветвление - задача #3
+// Даны три точки А(х1,у1), В(х2,у2) и С(х3,у3). Определить, будут ли они расположены на одной прямой.
+
 public class SolutionTask010203 {
 
 	public static void main(String[] args) {

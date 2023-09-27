@@ -1,6 +1,8 @@
 package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
-//Решаем Basics of software code development - Циклы - задача #2
+// Решаем Basics of software code development - Циклы - задача #2
+// Вычислить значения функции на отрезке [а,b] c шагом h:
+
 public class SolutionTask010302 {
 
 	public static void main(String[] args) {

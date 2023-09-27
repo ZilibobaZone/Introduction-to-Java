@@ -2,7 +2,9 @@ package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
 import java.util.Scanner;
 
-//Решаем Basics of software code development - Циклы - задача #8
+// Решаем Basics of software code development - Циклы - задача #8
+// Даны два числа. Определить цифры, входящие в запись как первого так и второго числа.
+
 public class SolutionTask010308 {
 
 	public static void main(String[] args) {

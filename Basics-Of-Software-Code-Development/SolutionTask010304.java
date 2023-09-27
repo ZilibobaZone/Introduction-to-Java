@@ -1,6 +1,8 @@
 package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
-//Решаем Basics of software code development - Циклы - задача #4
+// Решаем Basics of software code development - Циклы - задача #4
+// Составить программу нахождения произведения квадратов первых двухсот чисел.
+
 public class SolutionTask010304 {
 
 	public static void main(String[] args) {

@@ -1,6 +1,9 @@
 package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
-//Решаем Basics of software code development - Линейные программы - задача #3
+// Решаем Basics of software code development - Линейные программы - задача #3
+// Вычислить значение выражения по формуле (все переменные принимают действительные значения):
+// ((sin x + cos y) / (cos x − sin y ))∗ tg (xy)
+
 public class SolutionTask010103 {
 	public static void main(String[] args) {
 		double x = 90;

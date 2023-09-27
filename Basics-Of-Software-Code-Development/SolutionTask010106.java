@@ -1,6 +1,9 @@
 package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
-//Решаем Basics of software code development - Линейные программы - задача #6
+// Решаем Basics of software code development - Линейные программы - задача #6
+// Для данной области составить линейную программу, которая печатает true, если точка с координатами (х, у)
+// принадлежит закрашенной области, и false — в противном случае
+
 public class SolutionTask010106 {
 
 	public static void main(String[] args) {

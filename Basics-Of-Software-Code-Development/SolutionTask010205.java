@@ -1,6 +1,8 @@
 package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
-//Решаем Basics of software code development - Ветвление - задача #5
+// Решаем Basics of software code development - Ветвление - задача #5
+// Вычислить значение функции:
+
 public class SolutionTask010205 {
 
 	public static void main(String[] args) {

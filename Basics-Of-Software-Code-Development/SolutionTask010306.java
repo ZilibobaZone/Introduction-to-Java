@@ -1,6 +1,8 @@
 package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
-//Решаем Basics of software code development - Циклы - задача #6
+// Решаем Basics of software code development - Циклы - задача #6
+// Вывести на экран соответствий между символами и их численными обозначениями в памяти компьютера.
+
 public class SolutionTask010306 {
 
 	public static void main(String[] args) {

@@ -1,6 +1,8 @@
 package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
-//Решаем Basics of software code development - Ветвление - задача #2
+// Решаем Basics of software code development - Ветвление - задача #2
+// Найти max{min(a, b), min(c, d)}.
+
 public class SolutionTask010202 {
 
 	public static void main(String[] args) {

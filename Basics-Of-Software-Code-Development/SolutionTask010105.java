@@ -1,6 +1,10 @@
 package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
-//Решаем Basics of software code development - Линейные программы - задача #5
+// Решаем Basics of software code development - Линейные программы - задача #5
+// Дано натуральное число Т, которое представляет длительность прошедшего времени в секундах. Вывести
+// данное значение длительности в часах, минутах и секундах в следующей форме:
+// ННч ММмин SSc.
+
 public class SolutionTask010105 {
 
 	public static void main(String[] args) {

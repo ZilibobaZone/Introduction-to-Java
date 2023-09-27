@@ -1,6 +1,9 @@
 package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
-//Решаем Basics of software code development - Линейные программы - задача #2
+// Решаем Basics of software code development - Линейные программы - задача #2
+// Вычислить значение выражения по формуле (все переменные принимают действительные значения):
+// (b+Sqrt(b^2+4ac))/2a-a^3*c+b^(-2)
+
 public class SolutionTask010102 {
 	public static void main(String[] args) {
 		double a = 1;

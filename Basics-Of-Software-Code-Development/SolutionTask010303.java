@@ -1,6 +1,8 @@
 package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
-//Решаем Basics of software code development - Циклы - задача #3
+// Решаем Basics of software code development - Циклы - задача #3
+// Найти сумму квадратов первых ста чисел.
+
 public class SolutionTask010303 {
 
 	public static void main(String[] args) {

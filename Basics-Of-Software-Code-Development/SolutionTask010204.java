@@ -1,6 +1,9 @@
 package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
-//Решаем Basics of software code development - Ветвление - задача #4
+// Решаем Basics of software code development - Ветвление - задача #4
+// Заданы размеры А, В прямоугольного отверстия и размеры х, у, z кирпича. Определить, пройдет ли кирпич через
+// отверстие.
+
 public class SolutionTask010204 {
 
 	public static void main(String[] args) {

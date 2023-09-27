@@ -1,6 +1,9 @@
 package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
-//Решаем Basics of software code development - Циклы - задача #5
+// Решаем Basics of software code development - Циклы - задача #5
+// Даны числовой ряд и некоторое число е. Найти сумму тех членов ряда, модуль которых больше или равен
+// заданному е. Общий член ряда имеет вид:
+
 public class SolutionTask010305 {
 
 	public static void main(String[] args) {

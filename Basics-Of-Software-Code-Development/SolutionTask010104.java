@@ -1,6 +1,9 @@
 package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
-//Решаем Basics of software code development - Линейные программы - задача #4
+// Решаем Basics of software code development - Линейные программы - задача #4
+// Дано действительное число R вида nnn.ddd (три цифровых разряда в дробной и целой частях). Поменять местами
+// дробную и целую части числа и вывести полученное значение числа.
+
 public class SolutionTask010104 {
 	public static void main(String[] args) {
 		double a = 123.456; // Создаём переменную и инициализируем данным числом

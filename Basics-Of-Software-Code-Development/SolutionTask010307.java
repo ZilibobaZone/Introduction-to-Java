@@ -2,7 +2,10 @@ package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
 import java.util.Scanner;
 
-//Решаем Basics of software code development - Циклы - задача #7
+// Решаем Basics of software code development - Циклы - задача #7
+// Для каждого натурального числа в промежутке от m до n вывести все делители, кроме единицы и самого числа.
+// m и n вводятся с клавиатуры. 
+
 public class SolutionTask010307 {
 
 	public static void main(String[] args) {

@@ -2,7 +2,10 @@ package by.epam.introduction_to_java.basics_of_sftware_code_development;
 
 import java.util.Scanner;
 
-//Решаем Basics of software code development - Циклы - задача #1
+// Решаем Basics of software code development - Циклы - задача #1
+// Напишите программу, где пользователь вводит любое целое положительное число. А программа суммирует
+// все числа от 1 до введенного пользователем числа.
+
 public class SolutionTask010301 {
 
 	public static void main(String[] args) {
