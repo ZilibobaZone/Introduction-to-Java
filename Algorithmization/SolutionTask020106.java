@@ -1,6 +1,9 @@
 package by.epam.introduction_to_java.algorithmization;
 
-//Решаем Algorithmization - Одномерные массивы - задача #6
+// Решаем Algorithmization - Одномерные массивы - задача #6
+// Задана последовательность N вещественных чисел. Вычислить сумму чисел, порядковые номера которых
+// являются простыми числами.
+
 public class SolutionTask020106 {
 
 	public static void main(String[] args) {

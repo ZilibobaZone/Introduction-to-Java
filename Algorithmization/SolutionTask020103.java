@@ -1,6 +1,9 @@
 package by.epam.introduction_to_java.algorithmization;
 
-//Решаем Algorithmization - Одномерные массивы - задача #3
+// Решаем Algorithmization - Одномерные массивы - задача #3
+// Дан массив действительных чисел, размерность которого N. Подсчитать, сколько в нем отрицательных,
+// положительных и нулевых элементов.
+
 public class SolutionTask020103 {
 
 	public static void main(String[] args) {

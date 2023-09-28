@@ -1,6 +1,8 @@
 package by.epam.introduction_to_java.algorithmization;
 
-//Решаем Algorithmization - Одномерные массивы - задача #5
+// Решаем Algorithmization - Одномерные массивы - задача #5
+// Даны целые числа а1 ,а2 ,..., аn . Вывести на печать только те числа, для которых аi > i.
+
 public class SolutionTask020105 {
 
 	public static void main(String[] args) {

@@ -3,7 +3,9 @@ package by.epam.introduction_to_java.algorithmization;
 import java.util.Random;
 import java.util.Scanner;
 
-//Решаем Algorithmization - Задачи. Массивы массивов - задача #10
+// Решаем Algorithmization - Задачи. Массивы массивов - задача #10
+// Найти положительные элементы главной диагонали квадратной матрицы.
+
 public class SolutionTask020210 {
 
 	public static void main(String[] args) {

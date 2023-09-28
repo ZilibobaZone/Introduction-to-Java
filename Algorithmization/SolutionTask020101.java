@@ -1,6 +1,8 @@
 package by.epam.introduction_to_java.algorithmization;
 
-//Решаем Algorithmization - Одномерные массивы - задача #1
+// Решаем Algorithmization - Одномерные массивы - задача #1
+// В массив A [N] занесены натуральные числа. Найти сумму тех элементов, которые кратны данному К.
+
 public class SolutionTask020101 {
 
 	public static void main(String[] args) {

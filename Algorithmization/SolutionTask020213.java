@@ -3,10 +3,11 @@ package by.epam.introduction_to_java.algorithmization;
 import java.util.Random;
 
 //Решаем Algorithmization - Задачи. Массивы массивов - задача #13
+//Отсотрировать стобцы матрицы по возрастанию и убыванию значений эементов.
 public class SolutionTask020213 {
 
 	public static void main(String[] args) {
-		// Создаём матрицу произвольную матрицу
+		// Создаём произвольную матрицу
 		int[][] a = new int[10][10];
 		int[][] b = new int[a.length][a[a.length - 1].length];
 		boolean count = false;

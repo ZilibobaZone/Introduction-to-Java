@@ -2,7 +2,9 @@ package by.epam.introduction_to_java.algorithmization;
 
 import java.util.Random;
 
-//Решаем Algorithmization - Задачи. Массивы массивов - задача #1
+// Решаем Algorithmization - Задачи. Массивы массивов - задача #1
+// Дана матрица. Вывести на экран все нечетные столбцы, у которых первый элемент больше последнего.
+
 public class SolutionTask020201 {
 
 	public static void main(String[] args) {

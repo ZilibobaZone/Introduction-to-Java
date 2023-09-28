@@ -1,6 +1,9 @@
 package by.epam.introduction_to_java.algorithmization;
 
-//Решаем Algorithmization - Одномерные массивы - задача #8
+// Решаем Algorithmization - Одномерные массивы - задача #8 
+// Дана последовательность целых чисел a1 , a2 ,, an . Образовать новую последовательность, выбросив из
+// исходной те члены, которые равны min( a1 , a2 ,, an ) .
+
 public class SolutionTask020108 {
 
 	public static void main(String[] args) {

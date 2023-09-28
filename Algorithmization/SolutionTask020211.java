@@ -2,7 +2,10 @@ package by.epam.introduction_to_java.algorithmization;
 
 import java.util.Random;
 
-//Решаем Algorithmization - Задачи. Массивы массивов - задача #11
+// Решаем Algorithmization - Задачи. Массивы массивов - задача #11
+// Матрицу 10x20 заполнить случайными числами от 0 до 15. Вывести на экран саму матрицу и номера строк, в
+// которых число 5 встречается три и более раз.
+
 public class SolutionTask020211 {
 
 	public static void main(String[] args) {

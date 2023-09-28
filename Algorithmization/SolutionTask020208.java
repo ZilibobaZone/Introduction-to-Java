@@ -3,7 +3,12 @@ package by.epam.introduction_to_java.algorithmization;
 import java.util.Random;
 import java.util.Scanner;
 
-//Решаем Algorithmization - Задачи. Массивы массивов - задача #8
+// Решаем Algorithmization - Задачи. Массивы массивов - задача #8
+/* В числовой матрице поменять местами два столбца любых столбца, т. е. все элементы одного столбца поставить
+на соответствующие им позиции другого, а его элементы второго переместить в первый. Номера столбцов вводит
+пользователь с клавиатуры.
+*/
+
 public class SolutionTask020208 {
 
 	public static void main(String[] args) {

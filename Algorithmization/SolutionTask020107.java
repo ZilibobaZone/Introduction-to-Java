@@ -1,6 +1,8 @@
 package by.epam.introduction_to_java.algorithmization;
 
-//Решаем Algorithmization - Одномерные массивы - задача #7
+// Решаем Algorithmization - Одномерные массивы - задача #7
+// Даны действительные числа a1 , a2 ,, an . Найти max( a1 + a2 n , a2 + a2 n −1 ,, an + an +1 ) .
+
 public class SolutionTask020107 {
 
 	public static void main(String[] args) {

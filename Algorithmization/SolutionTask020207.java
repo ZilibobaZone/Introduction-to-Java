@@ -2,7 +2,12 @@ package by.epam.introduction_to_java.algorithmization;
 
 import java.util.Scanner;
 
-//Решаем Algorithmization - Задачи. Массивы массивов - задача #7
+// Решаем Algorithmization - Задачи. Массивы массивов - задача #7
+/* Сформировать квадратную матрицу порядка N по правилу:
+A[i,j] = sin((i*i - j*j) / n)
+и подсчитать количество положительных элементов в ней.
+*/
+
 public class SolutionTask020207 {
 
 	public static void main(String[] args) {

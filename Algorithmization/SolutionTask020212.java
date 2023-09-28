@@ -2,7 +2,9 @@ package by.epam.introduction_to_java.algorithmization;
 
 import java.util.Random;
 
-//Решаем Algorithmization - Задачи. Массивы массивов - задача #12
+// Решаем Algorithmization - Задачи. Массивы массивов - задача #12
+// Отсортировать строки матрицы по возрастанию и убыванию значений элементов.
+
 public class SolutionTask020212 {
 
 	public static void main(String[] args) {

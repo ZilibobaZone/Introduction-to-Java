@@ -1,6 +1,8 @@
 package by.epam.introduction_to_java.algorithmization;
 
-//Решаем Algorithmization - Одномерные массивы - задача #4
+// Решаем Algorithmization - Одномерные массивы - задача #4
+// Даны действительные числа а1 ,а2 ,..., аn . Поменять местами наибольший и наименьший элементы.
+
 public class SolutionTask020104 {
 
 	public static void main(String[] args) {

@@ -2,7 +2,9 @@ package by.epam.introduction_to_java.algorithmization;
 
 import java.util.Random;
 
-//Решаем Algorithmization - Задачи. Массивы массивов - задача #2
+// Решаем Algorithmization - Задачи. Массивы массивов - задача #2
+// Дана квадратная матрица. Вывести на экран элементы, стоящие на диагонали.
+
 public class SolutionTask020202 {
 
 	public static void main(String[] args) {

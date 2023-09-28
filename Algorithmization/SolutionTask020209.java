@@ -3,7 +3,11 @@ package by.epam.introduction_to_java.algorithmization;
 import java.util.Random;
 import java.util.Scanner;
 
-//Решаем Algorithmization - Задачи. Массивы массивов - задача #9
+// Решаем Algorithmization - Задачи. Массивы массивов - задача #9 
+/* Задана матрица неотрицательных чисел. Посчитать сумму элементов в каждом столбце. Определить, какой
+столбец содержит максимальную сумму.
+*/
+
 public class SolutionTask020209 {
 
 	public static void main(String[] args) {

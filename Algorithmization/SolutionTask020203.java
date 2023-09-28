@@ -3,7 +3,9 @@ package by.epam.introduction_to_java.algorithmization;
 import java.util.Random;
 import java.util.Scanner;
 
-//Решаем Algorithmization - Задачи. Массивы массивов - задача #3
+// Решаем Algorithmization - Задачи. Массивы массивов - задача #3
+// Дана матрица. Вывести k-ю строку и p-й столбец матрицы.
+
 public class SolutionTask020203 {
 
 	public static void main(String[] args) {

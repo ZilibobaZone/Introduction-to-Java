@@ -1,6 +1,9 @@
 package by.epam.introduction_to_java.algorithmization;
 
-//Решаем Algorithmization - Одномерные массивы - задача #2
+// Решаем Algorithmization - Одномерные массивы - задача #2
+// Дана последовательность действительных чисел а1 ,а2 ,..., ап. Заменить все ее члены, большие данного Z, этим
+// числом. Подсчитать количество замен.
+
 public class SolutionTask020102 {
 
 	public static void main(String[] args) {

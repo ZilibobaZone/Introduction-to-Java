@@ -11,7 +11,9 @@ public class SolutionTask020214 {
 		// Создаём случайный массив
 		Random random = new Random();
 		int m = random.nextInt(10);
+		m = (m != 0) ? m : m + 1; //
 		int n = random.nextInt(10);
+		n = n != 0 ? n : n + 1; 
 		int[][] a = new int[m][n];
 		int count;
 

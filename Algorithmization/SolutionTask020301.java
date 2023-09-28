@@ -16,7 +16,7 @@ public class SolutionTask020301 {
 		int[] resultArray = new int[arrayOne.length + arrayTwo.length];
 
 		Scanner read = new Scanner(System.in);
-		System.out.println("Введите k");
+		System.out.println("Введите k от 1 до 10");
 		int k = read.nextInt();
 
 		for (int i = 0, h = 0; i < arrayOne.length; h++, i++) {

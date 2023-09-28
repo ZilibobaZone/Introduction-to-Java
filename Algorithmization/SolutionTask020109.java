@@ -1,6 +1,9 @@
 package by.epam.introduction_to_java.algorithmization;
 
-//Решаем Algorithmization - Одномерные массивы - задача #9
+// Решаем Algorithmization - Одномерные массивы - задача #9
+// В массиве целых чисел с количеством элементов n найти наиболее часто встречающееся число. Если таких
+// чисел несколько, то определить наименьшее из них.
+
 public class SolutionTask020109 {
 
 	public static void main(String[] args) {

@@ -1,6 +1,9 @@
 package by.epam.introduction_to_java.algorithmization;
 
-//Решаем Algorithmization - Одномерные массивы - задача #10
+// Решаем Algorithmization - Одномерные массивы - задача #10
+// Дан целочисленный массив с количеством элементов п. Сжать массив, выбросив из него каждый второй
+// элемент (освободившиеся элементы заполнить нулями). Примечание. Дополнительный массив не использовать.
+
 public class SolutionTask020110 {
 
 	public static void main(String[] args) {

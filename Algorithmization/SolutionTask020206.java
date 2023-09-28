@@ -2,7 +2,15 @@ package by.epam.introduction_to_java.algorithmization;
 
 import java.util.Scanner;
 
-//Решаем Algorithmization - Задачи. Массивы массивов - задача #6
+// Решаем Algorithmization - Задачи. Массивы массивов - задача #6
+/* Сформировать квадратную матрицу порядка n по заданному образцу(n - четное):
+1    1   1   1   1   1
+0    1   1   1   1   0
+0    0   1   1   0   0
+0    1   1   1   1   0
+1    1   1   1   1   1
+*/
+
 public class SolutionTask020206 {
 
 	public static void main(String[] args) {
